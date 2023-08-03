@@ -24,6 +24,6 @@ If you use our work, please consider citing:
 }
 
 
-## The code will be published when the paper is accepted.
+# The code will be published when the paper is accepted.
 
 
